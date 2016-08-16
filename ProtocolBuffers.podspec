@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                       DESC
   s.homepage     = "http://protobuf.io#objc"
   s.license      = "Apache 2.0"
-  s.documentation_url = "https://github.com/alexeyxo/protobuf-objc"
+  s.documentation_url = "https://github.com/advoryanskiy/protobuf-objc"
   s.license      = { :type => 'Apache License, Version 2.0', :text =>
     <<-LICENSE
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -36,12 +36,12 @@ Pod::Spec.new do |s|
      LICENSE
   }
 
-  s.author       = { "Alexey Khokhlov" => "alexeyxo@gmail.com" }
+  s.author       = { "Alexey Dvoryanskiy" => "advoryanskiy@gmail.com" }
 
-  s.authors      = { "Alexey Khokhlov" => "alexeyxo@gmail.com" }
+  s.authors      = { "Alexey Dvoryanskiy" => "advoryanskiy@gmail.com" }
 
   s.source       = {
-    :git => "https://github.com/alexeyxo/protobuf-objc.git", :tag => s.version
+    :git => "https://github.com/advoryanskiy/protobuf-objc.git", :tag => s.version
   }
   s.module_name = "ProtocolBuffers"
   s.header_dir = "ProtocolBuffers"
@@ -51,7 +51,7 @@ Pod::Spec.new do |s|
   s.framework    = 'Foundation'
 
   s.ios.deployment_target = '6.0'
-  s.osx.deployment_target = '10.8'
+  s.osx.deployment_target = '10.7'
   s.watchos.deployment_target = '2.0'
   s.tvos.deployment_target = '9.0'
   s.requires_arc = true
