@@ -1,7 +1,7 @@
 Protocol Buffers for Objective-C
 ================================
 
-[![Build Status](https://travis-ci.org/alexeyxo/protobuf-objc.svg?branch=master)](https://travis-ci.org/alexeyxo/protobuf-objc) [![Version](http://img.shields.io/cocoapods/v/ProtocolBuffers.svg)](http://cocoapods.org/?q=ProtocolBuffers) [![Platform](http://img.shields.io/cocoapods/p/ProtocolBuffers.svg)](http://cocoapods.org/?q=ProtocolBuffers)
+[![Build Status](https://travis-ci.org/alexeyxo/protobuf-objc.svg?branch=master)](https://travis-ci.org/alexeyxo/protobuf-objc) [![Version](http://img.shields.io/cocoapods/v/ProtocolBuffers.svg)](http://cocoapods.org/?q=ProtocolBuffers) [![Platform](http://img.shields.io/cocoapods/p/ProtocolBuffers.svg)](http://cocoapods.org/?q=ProtocolBuffers) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 An implementation of Protocol Buffers in Objective C.
 
